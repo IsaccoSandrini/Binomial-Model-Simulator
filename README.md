@@ -70,4 +70,4 @@ Il progetto evidenzia sfide tipiche del design finanziario, come la gestione di 
 
 ---
 
-Il progetto rientra nel corso di Finanza Matematica dell'Università di Verona
+*Sviluppato per il corso di Finanza Matematica dell'Università degli Studi di Verona
